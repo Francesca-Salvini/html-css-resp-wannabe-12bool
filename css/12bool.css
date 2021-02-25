@@ -3,7 +3,7 @@
 .debug .container {
  
     background-color: aqua;
-    height: 200px;
+    /* height: 200px; */
    }
    
    .debug [class*="col-"] {
